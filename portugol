@@ -1,0 +1,6 @@
+início
+para int de 50 ate 150 passos 2 faça
+c←(int-32)*5/9
+escreva ("int,f é igual a, "c", "C")
+fimpara
+fimalgoritmo
